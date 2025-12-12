@@ -1,10 +1,10 @@
+import Pedido from "./components/pedido";
 
-import Pergunta from "./components/pergunta";
 
 export default function Home() {
-  return (
-   <div>
-     <Pergunta />
-   </div>
-  );
+return (
+<div>
+<Pedido />
+</div>
+);
 }
